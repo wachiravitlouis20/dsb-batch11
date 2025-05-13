@@ -9,6 +9,5 @@ My data science and analytics project
 4. Dashboard
 5. Linear Rehression Model using 
 
-
-##Image
+## Image
 ![Dragon Quest](https://c4.wallpaperflare.com/wallpaper/870/242/561/video-games-dragon-quest-viii-journey-of-the-cursed-king-akira-toriyama-jessica-albert-wallpaper-preview.jpg)
